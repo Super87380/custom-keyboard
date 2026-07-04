@@ -17,7 +17,7 @@
 - Knob and screen
 
 **What I dont like:**
--No macro keys
+- No macro keys
 ![Layout Design 1](Images/Design_Sketches/layout_1.png)
 
 # Design 2

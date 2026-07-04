@@ -1,6 +1,6 @@
 ## 03/07/2026 - Planning and making design sketches
 
-*Time spent: 1.1 hours*
+*Time spent: 1.25 hours*
 
 #### What I want:
 - 75% ish - I've had bigger keyboards and currently have a 100% keyboard and don't find myself ever using the number pad, so I want to create a smaller keyboard

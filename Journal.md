@@ -22,7 +22,7 @@
 
 No macro keys
 
-![Layout Design 1](https://github.com/Super87380/custom-keyboard/blob/main/Images/Design_Sketches/layout_1.png
+![Layout Design 1](Images/Design_Sketches/layout_1.png)
 
 
 ## Design 2
@@ -39,7 +39,7 @@ No macro keys
 - Knob placement - I want it at the top
 - No Screen
 
-![Dashboard Screenshot](Images/Design_Sketches/layout_2.png)
+![Layout Design 1](Images/Design_Sketches/layout_2.png)
 
 
 ## Design 3
@@ -56,7 +56,7 @@ No macro keys
 - A bit of wasted space at the top
 - Too compact
 
-![Dashboard Screenshot](Images/Design_Sketches/layout_3.png)
+![Layout Design 1](Images/Design_Sketches/layout_3.png)
 
 
 ## Final Design
@@ -72,4 +72,4 @@ No macro keys
 
 - Only 1 macro key
 
-![Dashboard Screenshot](Images/Design_Sketches/final_layout.png)
+![Layout Design 1](Images/Design_Sketches/final_layout.png)

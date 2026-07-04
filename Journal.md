@@ -10,7 +10,7 @@
 - Screen for showing volume and current song listening to
 - Backlight but I might make the case out of acrylic, in that case I won't use back lights
 
-##### Design 1
+#### Design 1
 
 **What I like:**
 - Not alot of wasted space
@@ -21,7 +21,7 @@
 
 ![Layout Design 1](Images/Design_Sketches/layout_1.png)
 
-##### Design 2
+#### Design 2
 
 **What I like:**
 - No wasted space
@@ -35,7 +35,7 @@
 
 ![Layout Design 1](Images/Design_Sketches/layout_2.png)
 
-##### Design 3
+#### Design 3
 
 **What I like:**
 - Pico placement
@@ -50,7 +50,7 @@
 ![Layout Design 1](Images/Design_Sketches/layout_3.png)
 
 
-##### Final Design
+#### Final Design
 
 **What I like:**
 - Pico placement - cord won't get in the way of my mouse

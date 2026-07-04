@@ -2,7 +2,7 @@
 
 *Time spent: 1.1 hours*
 
-## What I want:
+**What I want:**
 - 75% ish - I've had bigger keyboards and currently have a 100% keyboard and don't find myself ever using the number pad, so I want to create a smaller keyboard
 - Not tons of wasted space from microcontrollers and a screen
 - I would prefer to have a few macro keys but if I can't fit them in very well i'll just use the macropad I created
@@ -10,7 +10,7 @@
 - Screen for showing volume and current song listening to
 - Backlight but I might make the case out of acrylic, in that case I won't use back lights
 
-# Design 1
+**Design 1**
 
 **What I like:**
 - Not alot of wasted space
@@ -20,7 +20,7 @@
 - No macro keys
 ![Layout Design 1](Images/Design_Sketches/layout_1.png)
 
-# Design 2
+**Design 2**
 
 **What I like:**
 - No wasted space
@@ -33,7 +33,7 @@
 - No Screen
 ![Layout Design 1](Images/Design_Sketches/layout_2.png)
 
-# Design 3
+**Design 3**
 
 **What I like:**
 - Pico placement
@@ -47,7 +47,7 @@
 ![Layout Design 1](Images/Design_Sketches/layout_3.png)
 
 
-# Final Design
+**Final Design**
 
 **What I like:**
 - Pico placement - cord won't get in the way of my mouse

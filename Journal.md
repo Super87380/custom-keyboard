@@ -18,6 +18,7 @@
 
 **What I dont like:**
 - No macro keys
+
 ![Layout Design 1](Images/Design_Sketches/layout_1.png)
 
 ##### Design 2
@@ -31,6 +32,7 @@
 - Too compact (i'd probably accidentally hit the wrong key a few too many times)
 - Knob placement - I want it at the top
 - No Screen
+
 ![Layout Design 1](Images/Design_Sketches/layout_2.png)
 
 ##### Design 3
@@ -44,6 +46,7 @@
 **What I dont like:**
 - A bit of wasted space at the top
 - Too compact
+
 ![Layout Design 1](Images/Design_Sketches/layout_3.png)
 
 
@@ -57,4 +60,5 @@
 
 **What I dont like**
 - Only 1 macro key
+
 ![Layout Design 1](Images/Design_Sketches/final_layout.png)

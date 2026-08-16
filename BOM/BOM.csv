@@ -4,23 +4,23 @@
 ,,,,,,,,,
 ,,Sl No.,Name,Notes,Quantity,Price Per unit,Cost,Shipping,Link
 ,,1,PCB,Manufactured by JLCPBC (minimum 5) (order through JLclone desktop app (saves money)),1,,25.4,15.96,JLCPCB
-,,2,Diode,Diodes to prevent ghosting (part num: 1N41481N4148-T26A),84,0.0536,4.5024,3.75,https://www.digikey.ca/en/products/detail/onsemi/1N4148-T26A/978507?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336435733&gbraid=0AAAAADrbLljfQsAn0PrabxBVupKLEMgVk&gclid=CjwKCAjw1vXTBhB-EiwAEKr_k7cZHB28XnnojuwTf70G4_xI5RlsU0USZlFbSzXv2ByIhOBhrIbobBoC2_IQAvD_BwE
-,,3,Resistor,For start and end of LED data signals,2,0.16,0.32,3.75,https://www.digikey.ca/en/products/detail/yageo/RC0805FR-07560RL/728036
-,,4,Capacitor,Decoupling capacitors for LED's,83,0.05,4.15,3.75,https://www.digikey.ca/en/products/detail/yageo/CC0603KRX7R7BB104/302822?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdizwCEiBGRAFhAF0BfIA
+,,2,Diode,Diodes to prevent ghosting (part num: 1N41481N4148-T26A),84,0.0536,4.5024,5,https://www.digikey.ca/en/products/detail/onsemi/1N4148-T26A/978507?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336435733&gbraid=0AAAAADrbLljfQsAn0PrabxBVupKLEMgVk&gclid=CjwKCAjw1vXTBhB-EiwAEKr_k7cZHB28XnnojuwTf70G4_xI5RlsU0USZlFbSzXv2ByIhOBhrIbobBoC2_IQAvD_BwE
+,,3,Resistor,For start and end of LED data signals,2,0.16,0.32,5,https://www.digikey.ca/en/products/detail/yageo/RC0805FR-07560RL/728036
+,,4,Capacitor,Decoupling capacitors for LED's,83,0.05,4.15,5,https://www.digikey.ca/en/products/detail/yageo/CC0603KRX7R7BB104/302822?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdizwCEiBGRAFhAF0BfIA
 ,,5,LED,LED's for backglow of the keyboard (order in multiples of 5),85,0.089647,7.62,15.14,https://www.lcsc.com/product-detail/C5149201.html?s_z=n_SK6812%2520MINI-E
-,,6,Raspberry Pi Pico W,The microntroller for the keyboard (already owned),1,0,0,0,
+,,6,Raspberry Pi Pico W (with headers),The microntroller for the keyboard (already owned),1,0,0,0,https://www.pishop.ca/product/raspberry-pi-pico-w/
 ,,7,Switches,Mechanical keyboard switches (pack of 100),1,26.36,26.36,0,"Amazon.com: EPOMAKER Creamy Jade 45gf Gaming Keyboard Switches, 100 PCS Linear Switch, 5-Pin Pre-Lubed Switch, with PC/PA66 Case, POK Stem, Compatible with MX Keycaps for Mechanical Keyboard"
-,,8,Keycaps,Keycaps for the switches,1,24.99,24.99,0,"Shine Through PBT Keycaps - Black Gradient Topographic Side Printed Keycaps Set 133 Keys (60% 65% 75% 100% Full Size, Cherry, Double Shot) RGB Backlit Key Caps for MX Mechanical Gaming Keyboards : Amazon.ca"
-,,9,Rotary Encoder,Rotary encoder for volume and play/pause media,1,3.13,3.13,3.75,https://www.digikey.ca/en/products/detail/bourns-inc/PEC11R-4215F-N0012/4699216?gclsrc=aw.ds&gad_source=1&gad_campaignid=20572521725&gbraid=0AAAAADrbLlhUausxyoSY6s77URdO-z1sB&gclid=Cj0KCQjw-frTBhCvARIsADv4XY5qXkEMLilTUqFn7HSJCh8a2LZNXb3KSIIE3bGK5yD30KM9jw-oAMgaAqLGEALw_wcB
+,,8,Keycaps,Keycaps for the switches,1,14.71,14.71,0,https://www.aliexpress.com/item/1005009162201589.html?spm=a2g0o.productlist.main.60.720d33ba0Bi1wn&algo_pvid=1e740373-746a-40d4-891c-56ea8d6e0737&algo_exp_id=1e740373-746a-40d4-891c-56ea8d6e0737-59&pdp_ext_f=%7B%22order%22%3A%225967%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%2114.71%2113.29%21%21%2110.32%219.32%21%40210327ef17868497318538847e0f1f%2112000048150660051%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A313faa0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000210902374&curPageLogUid=kTwS5RRupty1&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009162201589%7C_p_origin_prod%3A
+,,9,Rotary Encoder,Rotary encoder for volume and play/pause media (already owned),1,0,0,,https://www.digikey.ca/en/products/detail/bourns-inc/PEC11R-4220F-S0012/4499661?_gl=1*1ggn56e*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwnIDUBhDrARIsAJDGwSvRRLKmdfn3QYwHauj9mzhCLeD-hmbjAZ888TGNjjB7Ubv1bPqK6-caAgEBEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAADrbLlgjnO9dmFUIrfopeWg6P7rzi
 ,,10,Rotary Encoder Knob,"Knob for the rotary encoder, 3D printed",1,0,0,0,
 ,,11,Case + plate,3D printed,1,0,0,0,
-,,12,Stabilzers,"4x 2u, 1x 6.5u needed",1,14.99,14.99,5.49,Genuine Cherry Clip In Stabilizers — RNDKBD
+,,12,Stabilzers,"7x 2u, 1x 6.25u",1,16.88,16.88,0,https://www.walmart.ca/en/ip/Mechanical-Keyboard-Cherry-Mx-Switch-Pcb-Mounted-Cherry-Stabilizer-Clear-Transparent-Case-6-25U-Modifier-Key-Stabiliser/7HYKUIE7RG06?selectedSellerId=E5A9E33ADEAF40C6A9A23E6BE89446FC
 ,,13,USB C Cable,"Aviation style, coiled",1,7.29,7.29,0,https://www.amazon.ca/Coiled-Keyboards-Aviation-Mechanical-70-87inch/dp/B0GYD7GZT2/ref=asc_df_B0GYD7GZT2?mcid=f386f915406537ce8e06492d6b1334da&tag=googleshopc0c-20&linkCode=df0&hvadid=813403065308&hvpos=&hvnetw=g&hvrand=12100118354861604080&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001474&hvtargid=pla-2492735139728&hvocijid=12100118354861604080-B0GYD7GZT2-&hvexpln=0&gad_source=1&th=1
 ,,14,Type C to Micro USB,For conencting the USB C cable to the pico,1,2.49,2.49,0,https://www.amazon.ca/dp/B0D8ZSWC1D?ref=cm_sw_r_cso_cp_apin_dp_1Z26QCMDW2S58JAMF2SA&ref_=cm_sw_r_cso_cp_apin_dp_1Z26QCMDW2S58JAMF2SA&social_share=cm_sw_r_cso_cp_apin_dp_1Z26QCMDW2S58JAMF2SA
 ,,,,"Additional Notes: Items from amazon may have shipping charges, I have prime so I did not
 include them in the BOM.
  All items from digikey shipping total $15 cad, 
-I divded that by 4 to add a shipping price to all of them (3.75)",,,,,
-,,,,,,Estimated tax:,20.74,,
-,,,,,,Total:,193.57,,
-,,,,,,Total USD:,139.50,,
+I divded that by 3 to add a shipping price to all of them ($5)",,,,,
+,,,,,,Estimated tax:,18.70,,
+,,,,,,Total:,174.52,,
+,,,,,,Total USD:,125.77,,

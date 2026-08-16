@@ -35,11 +35,11 @@ I then made the first schematic and PCB in KiCad with a screen and 1 macro key. 
 
 
 ## Files
-[PCB](..//PCB)
-[CAD](..//CAD)
-[Firmware](..//Firmware)
-[Journals](..//Journals)
-[BOM](..//BOM)
+[PCB](PCB)
+[CAD](CAD)
+[Firmware](Firmware)
+[Journals](Journals)
+[BOM](BOM)
 
 ## Credits
 This was made possible through the funding of Hack Club and KEEB, opensource firmware and software, everyone who helped with my questions in the slack, 3D models from grabcad, tutorials on YouTube, and inspiration from other KEEB github repos.

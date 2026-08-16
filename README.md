@@ -2,7 +2,7 @@
 
 This is a custom 75% mechanical keyboard that I designed every part for, from the PCB to the firmware.
 
-![Case](../Images/Case/case.png)
+![Case](Images/Case/case.png)
 
 ## Why I Built it
 A while before finding out about Hack Club I wanted to make my own mechanical keyboard. After finding out how much it would cost I got de motivated and gave up on the idea.

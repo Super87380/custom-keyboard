@@ -1,6 +1,6 @@
 # Custom 75% Mechanical Keyboard
 
-This is a custom 75% mechanical keyboard that I designed every part for, from the PCB to the firmware.
+This is a custom 75% mechanical keyboard with 3 macro keys that I designed every part for, from the PCB to the firmware.
 
 ![Case](Images/Case/case.png)
 
@@ -38,7 +38,7 @@ I then made the first schematic and PCB in KiCad with a screen and 1 macro key. 
 [PCB](PCB)
 [CAD](CAD)
 [Firmware](Firmware)
-[Journals](Journals)
+[Journal](JOURNAL.md)
 [BOM](BOM)
 
 ## Credits

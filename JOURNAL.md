@@ -389,8 +389,8 @@ This includes researching parts, generating quotes, and making the Bill of Mater
 I struggled trying to find good places for components that were affordable and had good shipping. Often I would find a part thats cheap but then the shipping would be insanely high, so I tried to find a balance of good price and good shipping.
 Which led me to using amazon for quite a few parts because I have amazon prime.
 I also found out that If you download the JLClone desktop app (JLCPCB desktop app) that you can get pcb manufacturing and shipping for substantially cheaper.
+<img width="1454" height="514" alt="image" src="https://github.com/user-attachments/assets/a28d3d96-e4a7-4346-bd5d-2e2936e91efc" />
 
-[BOM PDF](../BOM/BOM.pdf)
 
 **Total time spent: 1.4 hours**
 

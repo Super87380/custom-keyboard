@@ -379,6 +379,9 @@ I set the max brightness of the LED's to 60 (max 255) and default to 40 to prote
 I then added the rotary encoder and made it change the volume
 
 **It is important to note you must have [circuitPy](https://circuitpython.org/) and [KMK](https://github.com/KMKfw/kmk_firmware) installed onto the pico for the code to work.**
+Macro snippet\
+<img width="808" height="389" alt="image" src="https://github.com/user-attachments/assets/3c64b74a-3ae3-46c4-b5b1-2db9968bc445" />
+
 
 **Total time spent: 0.79 hours**
 

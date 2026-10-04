@@ -396,6 +396,6 @@ I also found out that If you download the JLClone desktop app (JLCPCB desktop ap
 
 ## August 15: Writing the README
 I took some time to look at other peoples README's for inspiration and to write my own including what I learnt, features, why I built it, and more.\
-[README](../README.md)
+<img width="892" height="788" alt="image" src="https://github.com/user-attachments/assets/535d4beb-df26-45ab-9fb3-cd21e98b7a0e" />
 
 **Total time spent: 0.63 hours**

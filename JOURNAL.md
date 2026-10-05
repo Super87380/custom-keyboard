@@ -407,8 +407,9 @@ I took some time to look at other peoples README's for inspiration and to write 
 
 I transferred the project to Forge as I submitted for review on KEEB almost 2 months ago and didn't hear anything back and the program has now ended.
 I had to merge all my seperate journals into one JOURNAL.md file.
-Cleaned up the repo, updated the README with more images and fixed some typos I saw.
+Cleaned up the repo, updated the README with more images, added the BOM and fixed some typos I saw.
 Added the PCB file to the PCB folder, I forgot to before.
 <img width="1430" height="943" alt="image" src="https://github.com/user-attachments/assets/8b87c02c-32a9-476f-8eec-b9ff1b74f863" />
+<img width="332" height="263" alt="image" src="https://github.com/user-attachments/assets/740c4513-6ed2-45b2-95d7-dd435b684acd" />
 
 **Total time spent: 0.9 hours**

@@ -33,6 +33,8 @@ I then made the first schematic and PCB in KiCad with a screen and 1 macro key. 
 - Layers in KMK
 - RGB in KMK
 
+<img width="1225" height="827" alt="image" src="https://github.com/user-attachments/assets/6153b32f-142e-4564-8010-f7911233e43d" />
+
 
 ## Files
 [PCB](PCB)

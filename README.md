@@ -56,7 +56,7 @@ I then made the first schematic and PCB in KiCad with a screen and 1 macro key. 
 
 > **Additional Notes:** Items from Amazon may have shipping charges; Amazon Prime is used so shipping costs are not included. 
 > 
-> *\*All LCSC items share a combined shipping fee of **$13.54 USD**. PCB shipping is estimated at **$15.00 USD**. Total shipping: **$28.54 USD**.*
+> All LCSC items share a combined shipping fee of **$13.54 USD**. PCB shipping is estimated at **$15.00 USD**. Total shipping: **$28.54 USD**.
 
 - **Sub Total:** $87.16 USD
 - **Shipping Total:** $28.54 USD

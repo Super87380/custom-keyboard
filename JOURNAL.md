@@ -417,7 +417,7 @@ Added the PCB file to the PCB folder, I forgot to before.
 ## October 22: Updating BOM
 
 All KEEB projects where added to fabricate so this project will now b e on fabricate instead of forge, I deleted the project off forge.
-I switched to LCSC instead of digikey because shipping and parts are cheaper on LCSC.\
+I switched to LCSC instead of digikey because shipping and parts are cheaper on LCSC.
 
 I also got an updated PCB quote\
 <img width="394" height="574" alt="image" src="https://github.com/user-attachments/assets/e2f1b8bc-bf0b-48d1-bf65-dde89b76cc70" />

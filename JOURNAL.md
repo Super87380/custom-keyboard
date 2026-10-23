@@ -413,3 +413,19 @@ Added the PCB file to the PCB folder, I forgot to before.
 <img width="332" height="263" alt="image" src="https://github.com/user-attachments/assets/740c4513-6ed2-45b2-95d7-dd435b684acd" />
 
 **Total time spent: 1 hour**
+
+## October 22: Updating BOM
+
+All KEEB projects where added to fabricate so this project will now b e on fabricate instead of forge, I deleted the project off forge.
+I switched to LCSC instead of digikey because shipping and parts are cheaper on LCSC.
+
+I also got an updated PCB quote
+<img width="394" height="574" alt="image" src="https://github.com/user-attachments/assets/e2f1b8bc-bf0b-48d1-bf65-dde89b76cc70" />
+
+<img width="1721" height="616" alt="image" src="https://github.com/user-attachments/assets/54221a21-3108-430b-9f8d-43100bae79ab" />
+
+
+
+
+
+**Total time spent: 50 Minutes**
